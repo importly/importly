@@ -11,4 +11,6 @@ Currently learning machine learning.
 
 ### Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=importly&repo=Renderden)
+Renderden, an opengl project I took on with a friend, Gautam Paranjape
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eternalmoon1234&repo=Renderden)
