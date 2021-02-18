@@ -1,12 +1,9 @@
 ### Hello!
 I am importly.
 
-Here are some random stats I have:
+# What I can do
 
-Overall:
+I usually work with low-level languages like C++ and rust, but I can work with other languages such as JS and Python.
+Take a look at my pinned repositories for more details.
 
-![Importly's GitHub stats](https://github-readme-stats.vercel.app/api?username=importly&show_icons=true&theme=tokyonight)
-
-Most used languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=importly&layout=compact&theme=tokyonight)
+Currently learning machine learning.
