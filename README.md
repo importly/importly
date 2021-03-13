@@ -14,7 +14,3 @@ Currently learning machine learning.
 HomeworkBot, a discord bot that I created to keep track of homework during the pandemic. Also inculdes a simple music player.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=importly&repo=HomeworkBot)](https://github.com/importly/HomeworkBot)
-
-Renderden, an opengl project I took on with a friend, Gautam Paranjape
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eternalmoon1234&repo=Renderden)](https://github.com/eternalmoon1234/Renderden)
