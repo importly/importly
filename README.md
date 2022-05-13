@@ -1,16 +1,12 @@
 ### Hello!
-I am importly.
+Why are you looking at this page?
 
-### Usual work
+## Contact me here if you need to:
+email: aryankuthakur@hotmail.com
+discord: importly#2385
+github: https://github.com/importly/importly
 
-I usually work with low-level languages like C++ and rust, but I can work with other languages such as JS and Python.
-Take a look at my repositories listed below for more details.
-
-Currently learning machine learning.
-
-
-### Repositories
-
-HomeworkBot, a discord bot that I created to keep track of homework during the pandemic. Also inculdes a simple music player.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=importly&repo=HomeworkBot)](https://github.com/importly/HomeworkBot)
+## Stuff 
+I do First Robotics Competiton with team 0086, Team Resistance
+and some other projects revolving around guis and low level 
+electronics.
