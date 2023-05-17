@@ -1,5 +1,5 @@
 ### Hello!
-Why are you looking at this page?
+I am Aryan Thakur
 
 ## Contact me here if you need to:
 email: aryankuthakur@hotmail.com  
